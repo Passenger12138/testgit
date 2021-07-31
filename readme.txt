@@ -4,13 +4,8 @@
 44444444
 66666666
 77777777
-xxxxxxxxx
-yyyyyy
-zzzz
-qqqq
-iiii
-cccc
-9999
-aaaa
-zzzz
+99999999
+10101010
+bbbbbbb
+
 
